@@ -1,0 +1,6 @@
+name: MineableBlocks
+author: safar.dev
+version: 1.0
+main: dev.safar.mineableblocks.Main
+commands:
+  mineableblocks:

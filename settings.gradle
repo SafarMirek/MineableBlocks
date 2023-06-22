@@ -1,0 +1,5 @@
+rootProject.name = 'MineableBlocks'
+
+include 'api'
+include 'core'
+
